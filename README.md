@@ -19,8 +19,8 @@ ATIVIDADES
   
  ARQUIVOS
         
-       <a href="https://github.com/Josuels/DataManagmentandGovernance/blob/main/DEVEDORES%20AULA%2001.txt">DEVEDORES AULA 01.xlsx</a> - Base de dados com as analises efetuadas
-        DEVEDORES AULA 01.txt - Respostas referente a analise efetuada
+         DEVEDORES AULA 01.xlsx - Base de dados com as analises efetuadas
+         DEVEDORES AULA 01.txt - Respostas referente a analise efetuada
         
 
 
