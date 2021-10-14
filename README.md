@@ -2,6 +2,7 @@
 MBA IMPACTA - Data Managment and Governance
 
 GRUPO 8
+    
     Josué Lopes          RA: 2101111
     Jean Silva           RA: 2101125
     Alexandre Tostes     RA: 2100416
@@ -17,7 +18,8 @@ ATIVIDADES
       -O que você faria para melhorar a qualidade destes atributos
   
  ARQUIVOS
-    DEVEDORES AULA 01.xlsx - Base de dados com as analises efetuadas
+        
+        DEVEDORES AULA 01.xlsx - Base de dados com as analises efetuadas
     
 
 
