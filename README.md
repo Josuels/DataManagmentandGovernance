@@ -1,5 +1,5 @@
-# DataManagmentandGovernance
-MBA IMPACTA - Data Managment and Governance
+# MBA IMPACTA
+Disciplina - Data Managment and Governance
 
 GRUPO 8
     
