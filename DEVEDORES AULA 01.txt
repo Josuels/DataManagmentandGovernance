@@ -1,4 +1,10 @@
-A Qualidade dos atributos na base é considerada ruim, muitas informações faltantes...
+
+
+A Qualidade dos atributos na base é considerada ruim pois temos muitos campos em branco ou até mesmo nomes
+abreviados.
 
 A Qualidade Geral da base é considerada ruim, sendo necessário absorver informações de outras bases 
 para que os dados da base DEVEDORES se tornem mais bem utilizados.
+
+Para melhoria dos atributos podemos agrupar alguns atributos que é possivel identificar que 
+fazem parte de um mesmo agrupamento.
