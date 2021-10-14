@@ -20,7 +20,7 @@ ATIVIDADES
  ARQUIVOS
         
         DEVEDORES AULA 01.xlsx - Base de dados com as analises efetuadas
-        DEVEDORES AULA 01.docx - Respostas referente a analise efetuada
+        DEVEDORES AULA 01.txt - Respostas referente a analise efetuada
         
 
 
