@@ -1,7 +1,7 @@
 # MBA IMPACTA
 Disciplina - Data Managment and Governance
 
-GRUPO 8
+GRUPO 7
     
     Josué Lopes          RA: 2101111
     Jean Silva           RA: 2101125
